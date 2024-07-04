@@ -57,6 +57,7 @@ sysinfo.txt
 
 # Builds
 *.apk
+!MathGame3.apk
 *.aab
 *.unitypackage
 *.app
